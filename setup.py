@@ -1,13 +1,13 @@
 from setuptools import setup
 
 setup(
-    name='bekindto_utils',
+    name='saucisses_utils',
     requires=[],
-    packages=['bekindto_utils'],
-    description='Bekindto project utils package',
-    long_description='Bekindto project utils package',
+    packages=['saucisses_utils'],
+    description='Saucisses Team project utils package',
+    long_description='Saucisses Team project utils package',
     version='0.1',
-    url='https://github.com/saucisses-a-roulettes/bekindto-utils',
+    url='https://github.com/saucisses-a-roulettes/saucisses_utils',
     author='Saucisses Team',
     keywords=['pip', 'bekindto', 'utils']
 )
